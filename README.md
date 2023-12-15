@@ -1,13 +1,13 @@
  <h1 align="center">Hello, how are you ? ?</h1>
  
-### If you want to know more about my work, access my personal <a href="https://ezequiel-mathias.github.io/Portifolio-Ezequiel-Mathias/">portfolio now!</a>
+### If you want to know more about my work, access my personal <a href="https://github.com/omarcus-vinnicius">portfolio now!</a>
  
 #### Statistics and languages I use:
 
 <div align="center">
-  <a href="https://github.com/Ezequiel-Mathias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-Mathias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-Mathias&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/omarcus-vinnicius">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcus-vinniciu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcus-vinnicius&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -28,8 +28,8 @@
   <div align="center">
   <img src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif" width="500" height="320">
  
-   <a href = "mailto:ezequielmathias32@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ezequiel-mathias-104092227" target="_blank"><img alt="Ezequiel LinkedIN" width="26px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   <a href = "mailto:marcusvinniciusouza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/marcus-vinnicius-524aa1206/" target="_blank"><img alt="LinkedIN" width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />
 </a>
  </div>
  
